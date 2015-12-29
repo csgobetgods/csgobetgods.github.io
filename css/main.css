@@ -6,7 +6,7 @@
     background-size: cover;
  {   
      
-.jumbotron .container {
+.jumbotron.container {
       position: relative;
       top: 330px;
       text-align: center;
