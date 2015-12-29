@@ -1,0 +1,19 @@
+
+.jumbotron {
+    background-image: url('https://i.imgur.com/IyVHSNO.png');
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.jumbotron p {
+    color: #fff;
+    font-size: 20px;
+}    
+
+ .jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+    }
